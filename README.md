@@ -1,4 +1,4 @@
-# SERIALIZABLE-TRIE-DATA-STRUCTURE
+# SerializableTrieLibrary
 This is a library for the trie data structure which can be converted to/from a list of strings.
 a user can do the following:
 
